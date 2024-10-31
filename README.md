@@ -1,5 +1,15 @@
 # Sales Analysis with SQL and Excel
 
+## Table of Contents
+
+- [Project Background](#project-background)
+- [Data Source](#data-source)
+- [Executive Summary](#executive-summary)
+- [Insights Deep Dive](#insights-deep-dive)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+- [Update](#update)
+
 ## Project Background
 
 This project analyzes the sales performance of a fictional BikeStore business, using real-world-inspired data from a sample SQL database. The goal is to assess the company's revenue trends, customer behavior, and store performance over time. This end-to-end analysis, conducted using SQL and Microsoft Excel, provides insights into sales across various dimensions, including products, stores, and customers.
@@ -62,7 +72,7 @@ The sales performance analysis for the BikeStore company reveals key trends acro
 - **Exclusion of Costs**: This analysis focuses solely on revenue without factoring in the costs associated with production, shipping, or marketing. Future work could include profitability analysis for a more complete business assessment.
 - **Sampling Bias**: This is a sample dataset, and while it simulates a real-world scenario, actual business dynamics could introduce additional complexities.
 
-## 22/10/2024 Update
+## Update
 
 Added an interactive Tableau version of the Sales Performance Dashboard.
 
