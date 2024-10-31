@@ -1,4 +1,4 @@
-# Sales Analysis with SQL and Excel
+# Sales Analysis with SQL, Excel, and Tableau
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Project Background
 
-This project analyzes the sales performance of a fictional BikeStore business, using real-world-inspired data from a sample SQL database. The goal is to assess the company's revenue trends, customer behavior, and store performance over time. This end-to-end analysis, conducted using SQL and Microsoft Excel, provides insights into sales across various dimensions, including products, stores, and customers.
+This project analyzes the sales performance of a fictional BikeStore business, using real-world-inspired data from a sample SQL database. The goal is to assess the company's revenue trends, customer behavior, and store performance over time. This end-to-end analysis, conducted using SQL, Microsoft Excel, and Tableau, provides insights into sales across various dimensions, including products, stores, and customers.
 
 The project simulates a real-world business scenario where a data analyst works to identify opportunities for growth and improve operational efficiency by examining historical data.
 
